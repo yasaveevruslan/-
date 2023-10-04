@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunicationSalon", "CommunicationSalon\CommunicationSalon.csproj", "{D3D061CA-D566-43C5-8F0E-6800915E6AD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D061CA-D566-43C5-8F0E-6800915E6AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D061CA-D566-43C5-8F0E-6800915E6AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D061CA-D566-43C5-8F0E-6800915E6AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D061CA-D566-43C5-8F0E-6800915E6AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FE5C9A7-B7C4-43E9-BBA2-8DBFCB9DC516}
+	EndGlobalSection
+EndGlobal
