@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\1\Desktop\Communication-salon\Communication-salon\CommunicationSalon\obj\Debug\
+C:\Users\1\Desktop\Диаграммы\Communication-salon\CommunicationSalon\obj\Debug\
 CommunicationSalon
 none
 false
 DEBUG;TRACE
-C:\Users\1\Desktop\Communication-salon\Communication-salon\CommunicationSalon\App.xaml
+C:\Users\1\Desktop\Диаграммы\Communication-salon\CommunicationSalon\App.xaml
 13-1250581223
 2-32640483
 29-1518790938
-18-792306379
+18-655304051
 MainWindow.xaml;Pages\AccepTariffPage.xaml;Pages\AddServicePage.xaml;Pages\ClientMainPage.xaml;Pages\CommunicationsSpecialistMainPage.xaml;Pages\ConnectServicesPage.xaml;Pages\LoginPage.xaml;Pages\MainManagerPage.xaml;Pages\ManagerPage.xaml;Pages\RegistrateNewClientPage.xaml;Pages\RegistrationPage.xaml;Pages\ServicesPage.xaml;Pages\TariffRegistrationPage.xaml;
 
 False
